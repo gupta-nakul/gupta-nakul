@@ -1,6 +1,6 @@
 ## Hi, I’m Nakul 👋
 
-#### Been a Software Engineer for 2+ years, looking forward to being a Data Scientist now! 👨🏻‍💻 📈
+#### Been a Data Engineer for 2+ years, looking forward to being a Data Scientist / MLE now! 👨🏻‍💻 📈
 #### Always looking forward to learn new things...
 
 ##### Want to connect? Contact me: guptanak@iu.edu
